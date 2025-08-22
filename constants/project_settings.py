@@ -1,0 +1,1 @@
+STEP_KRA_REQUIRED = False
